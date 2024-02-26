@@ -1,0 +1,24 @@
+.chrono-container {
+  height: 100vh;
+  width: 100%;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.main-heading {
+  align-self: center;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 5px;
+}
+
+.highlighted-text {
+  color: #171f46;
+  font-weight: bold;
+}
